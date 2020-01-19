@@ -1,6 +1,6 @@
 package TriangleSquare.Alevel;
 
-public class triangleSquare {
+public class TriangleSquare {
     public static void main(String[] args) {
 
         double x1 = 2;
